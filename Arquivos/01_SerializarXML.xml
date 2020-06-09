@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Usuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nome>Tiago Nunes Santana</Nome>
+  <CPF>777.777.777-77</CPF>
+  <Email>tiagosantana@gmail.com</Email>
+</Usuario>

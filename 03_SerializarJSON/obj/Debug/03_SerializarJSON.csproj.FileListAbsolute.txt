@@ -1,0 +1,10 @@
+C:\Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe.config
+C:\Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Serializar-Deserializar\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Serializar-Deserializar\03_SerializarJSON\bin\Debug\ClassLibrary1.dll
+C:\Serializar-Deserializar\03_SerializarJSON\bin\Debug\ClassLibrary1.pdb
+C:\Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csprojAssemblyReference.cache
+C:\Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CopyComplete
+C:\Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.exe
+C:\Serializar-Deserializar\03_SerializarJSON\obj\Debug\03_SerializarJSON.pdb
